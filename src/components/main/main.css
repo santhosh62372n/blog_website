@@ -1,0 +1,10 @@
+.post {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+}
+
+.postval {
+  text-align: left;
+  font-size: 40px;
+}
