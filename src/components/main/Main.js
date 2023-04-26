@@ -41,6 +41,7 @@ function Main() {
   //   });
   //   setPosts(parsedData.blog.posts.post);
   // });
+  return <div id="posts_section"></div>;
 }
 
 export default Main;
